@@ -1,0 +1,12 @@
+<application xmlns="http://ns.adobe.com/air/application/1.0">
+	<id>jga23.Test1</id>
+	<version>0.1</version>
+    <filename>Test1</filename>
+    <initialWindow>
+        <content>Test1.html</content>
+        <visible>true</visible>
+        <width>800</width>
+        <height>600</height>
+    </initialWindow>
+</application>
+
