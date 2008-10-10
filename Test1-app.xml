@@ -3,6 +3,8 @@
 	<version>0.1</version>
     <filename>Test1</filename>
     <initialWindow>
+		<systemChrome>none</systemChrome>
+		<transparent>true</transparent>	
         <content>Test1.html</content>
         <visible>true</visible>
         <width>800</width>
